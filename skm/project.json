@@ -1,0 +1,13 @@
+{
+    "name": "skm",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "launchConfig": {
+        "hideLogs": true
+    },
+    "packageName": "com.mrgg.skm",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
